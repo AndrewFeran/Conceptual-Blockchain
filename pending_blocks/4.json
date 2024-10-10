@@ -1,0 +1,9 @@
+{
+    "id": 4,
+    "prevHash": "0000657358f356a54121b72d07400f092cd5b8f2cb3df62c0e38cad62c84995a",
+    "nonce": 0,
+    "sender": "peerA",
+    "data": "...",
+    "hash": 0,
+    "confirmed_by": ""
+}

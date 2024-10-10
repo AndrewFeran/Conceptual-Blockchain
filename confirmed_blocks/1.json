@@ -1,0 +1,9 @@
+{
+    "id": 1,
+    "prevHash": 0,
+    "nonce": 203421,
+    "sender": "peerA",
+    "data": "Hello World!",
+    "hash": "0000269efdd055447bba38a953e2da9f641794b0982b013ef2d005d5586fdc33",
+    "confirmed_by": "peerB"
+}

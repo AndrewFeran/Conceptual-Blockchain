@@ -1,0 +1,9 @@
+{
+    "id": 2,
+    "prevHash": "0000269efdd055447bba38a953e2da9f641794b0982b013ef2d005d5586fdc33",
+    "nonce": 130897,
+    "sender": "peerB",
+    "data": "one more block",
+    "hash": "00000161886e8ca1763222e35bc4a209e23ac0b57bc50045a87d74c26dce2995",
+    "confirmed_by": "peerC"
+}

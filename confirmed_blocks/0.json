@@ -1,0 +1,9 @@
+{
+    "id": 0,
+    "prevHash": 0,
+    "nonce": 0,
+    "sender": "",
+    "data": "The very first block!",
+    "hash": 0,
+    "confirmed_by": ""
+}
