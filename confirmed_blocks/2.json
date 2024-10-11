@@ -1,9 +1,15 @@
 {
-    "id": 2,
-    "prevHash": "0000269efdd055447bba38a953e2da9f641794b0982b013ef2d005d5586fdc33",
-    "nonce": 130897,
-    "sender": "peerB",
-    "data": "one more block",
-    "hash": "00000161886e8ca1763222e35bc4a209e23ac0b57bc50045a87d74c26dce2995",
-    "confirmed_by": "peerC"
+    "header": {
+        "id": 2,
+        "previous_hash": "000018a97e3b459c8aafce34d69401d97c00ec7db9f21d53a7711c4f5f274691",
+        "time_created": "2024-10-11T14:29:19.490Z",
+        "created_by": "peerA",
+        "time_confirmed": "2024-10-11T14:29:53.349Z",
+        "confirmed_by": "peerB",
+        "nonce": 27269,
+        "hash": "000037ed8db16dfbb862d9cba1ddcc9182cc44ab4863ddc00aa11829b8f6c9f7"
+    },
+    "body": {
+        "data": "bar"
+    }
 }

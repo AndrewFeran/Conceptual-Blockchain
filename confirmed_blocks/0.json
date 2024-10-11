@@ -1,9 +1,15 @@
 {
-    "id": 0,
-    "prevHash": 0,
-    "nonce": 0,
-    "sender": "",
-    "data": "The very first block!",
-    "hash": 0,
-    "confirmed_by": ""
+    "header": {
+        "id": 0,
+        "previous_hash": "1",
+        "time_created": "",
+        "created_by": "",
+        "time_confirmed": "",
+        "confirmed_by": "",
+        "nonce": 0,
+        "hash": "0"
+    },
+    "body": {
+        "data": "Genesis Block"
+    }
 }

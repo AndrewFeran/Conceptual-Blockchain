@@ -1,9 +1,15 @@
 {
-    "id": 1,
-    "prevHash": 0,
-    "nonce": 203421,
-    "sender": "peerA",
-    "data": "Hello World!",
-    "hash": "0000269efdd055447bba38a953e2da9f641794b0982b013ef2d005d5586fdc33",
-    "confirmed_by": "peerB"
+    "header": {
+        "id": 1,
+        "previous_hash": "0",
+        "time_created": "2024-10-11T14:29:15.589Z",
+        "created_by": "peerA",
+        "time_confirmed": "2024-10-11T14:29:26.397Z",
+        "confirmed_by": "peerB",
+        "nonce": 25818,
+        "hash": "000018a97e3b459c8aafce34d69401d97c00ec7db9f21d53a7711c4f5f274691"
+    },
+    "body": {
+        "data": "foo"
+    }
 }

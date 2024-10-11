@@ -1,0 +1,11 @@
+{
+    "header": {
+        "id": 4,
+        "previous_hash": 0,
+        "time_created": "2024-10-11T14:30:15.422Z",
+        "created_by": "peerB"
+    },
+    "body": {
+        "data": "World"
+    }
+}
